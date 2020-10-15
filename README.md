@@ -1,1 +1,1 @@
-# Racist-Hate-tweets-detector
+# Hate-Speech-Classification-deployed-using-Flask
